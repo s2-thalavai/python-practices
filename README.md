@@ -90,5 +90,10 @@ bash
 
 This runs Jupyter via Python directly.
 
+<img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/47840df2-8435-4d04-8e62-5b921e6dcf59" />
+
+
+
+<img width="1918" height="995" alt="image" src="https://github.com/user-attachments/assets/2c459fab-d98e-4ec5-b9cc-6dccf1e4311b" />
 
 --------------------------------------------------------------------------
