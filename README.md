@@ -20,6 +20,8 @@ bash
     python --version
     pip --version
 
+<img width="1162" height="355" alt="image" src="https://github.com/user-attachments/assets/57c65803-560c-4ed5-84fb-51a338dbd6c9" />
+
 Install Jupyter Notebook
 
 Run:
