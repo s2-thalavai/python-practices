@@ -7,6 +7,10 @@ Download the latest version from python.org.
 
 During installation, check “Add Python to PATH”.
 
+<img width="1918" height="1013" alt="python-django-fastapi-installation" src="https://github.com/user-attachments/assets/200682e3-8be1-4816-a1a2-a780ff8c18c9" />
+
+<img width="1918" height="1025" alt="python-django-fastapi-installation-1" src="https://github.com/user-attachments/assets/e476a15f-848e-488f-828d-a30045744c86" />
+
 Verify pip installation
 
 Open Command Prompt and run:
@@ -15,7 +19,7 @@ bash
 
     python --version
     pip --version
-    
+
 Install Jupyter Notebook
 
 Run:
